@@ -18,22 +18,22 @@ These projects will be automatically added into [https://projects.ce.pdn.ac.lk](
 
 ```
 {
-  "title": "This is the title of the project",
+  "title": "MODUREHAB HOME",
   "team": [
     {
-      "name": "Team Member Name 1",
-      "email": "email@eng.pdn.ac.lk",
-      "eNumber": "E/yy/xxx"
+      "name": "R.G.S.T.Weerasekara",
+      "email": "e22419@eng.pdn.ac.lk",
+      "eNumber": "E/22/419"
     },
     {
-      "name": "Team Member Name 2",
-      "email": "email@eng.pdn.ac.lk",
-      "eNumber": "E/yy/xxx"
+      "name": "K.H.D.M.Bimsara",
+      "email": "e22052@eng.pdn.ac.lk",
+      "eNumber": "E/22/052"
     },
     {
-      "name": "Team Member Name 3",
-      "email": "email@eng.pdn.ac.lk",
-      "eNumber": "E/yy/xxx"
+      "name": "M.M.T.Cooray",
+      "email": "e22058@eng.pdn.ac.lk",
+      "eNumber": "E/22/058"
     }
   ],
   "supervisors": [
